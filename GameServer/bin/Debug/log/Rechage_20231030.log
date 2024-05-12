@@ -1,0 +1,8 @@
+2023-10-30 00:30:49: [COSTUMEXCHANGE][201710] Ghi lại tích lũy bị lỗi:2600
+2023-10-30 08:06:23: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack4|RoleId :200255
+2023-10-30 08:06:23: [RECHAGE][200255] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack4
+2023-10-30 08:06:23: [RECHAGE][200255] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack4| TransID :25EF401493367C43360BB75DC12353AD
+2023-10-30 11:20:05: [COSTUMEXCHANGE][206757] Ghi lại tích lũy bị lỗi:2400
+2023-10-30 12:42:16: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack1|RoleId :206768
+2023-10-30 12:42:17: [RECHAGE][206768] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack1
+2023-10-30 12:42:17: [RECHAGE][206768] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack1| TransID :F0CC73D74FE19CF8F640FE324BB18660

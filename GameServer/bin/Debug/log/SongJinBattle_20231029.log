@@ -1,0 +1,36 @@
+2023-10-29 01:59:36: [Dương Châu (Sơ)] Stating Battle OK!
+2023-10-29 01:59:36: [Phượng Tường (Trung)] Stating Battle OK!
+2023-10-29 01:59:36: [Tương Dương (Cao)] Stating Battle OK!
+2023-10-29 01:37:39: [Dương Châu (Sơ)] Stating Battle OK!
+2023-10-29 01:37:39: [Phượng Tường (Trung)] Stating Battle OK!
+2023-10-29 01:37:39: [Tương Dương (Cao)] Stating Battle OK!
+2023-10-29 10:50:01: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 10:50:01: [Tương Dương (Cao)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 10:50:01: [Phượng Tường (Trung)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 11:00:01: [Phượng Tường (Trung)] Battle Change State ==> STATUS_NULL
+2023-10-29 11:00:01: [Tương Dương (Cao)] Battle Change State ==> STATUS_NULL
+2023-10-29 11:40:02: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPAREEND
+2023-10-29 11:45:03: [Dương Châu (Sơ)] Battle Change State ==> STATUS_END
+2023-10-29 12:00:03: [Dương Châu (Sơ)] Battle Change State ==> STATUS_CLEAR
+2023-10-29 12:01:04: [Dương Châu (Sơ)] Battle Change State ==> STATUS_NULL
+2023-10-29 16:07:48: [Dương Châu (Sơ)] Stating Battle OK!
+2023-10-29 16:07:48: [Phượng Tường (Trung)] Stating Battle OK!
+2023-10-29 16:07:48: [Tương Dương (Cao)] Stating Battle OK!
+2023-10-29 16:50:01: [Phượng Tường (Trung)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 16:50:01: [Tương Dương (Cao)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 16:50:01: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 17:00:03: [Phượng Tường (Trung)] Battle Change State ==> STATUS_NULL
+2023-10-29 17:00:03: [Tương Dương (Cao)] Battle Change State ==> STATUS_NULL
+2023-10-29 17:40:05: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPAREEND
+2023-10-29 17:45:04: [Dương Châu (Sơ)] Battle Change State ==> STATUS_END
+2023-10-29 18:00:05: [Dương Châu (Sơ)] Battle Change State ==> STATUS_CLEAR
+2023-10-29 18:01:05: [Dương Châu (Sơ)] Battle Change State ==> STATUS_NULL
+2023-10-29 20:50:00: [Phượng Tường (Trung)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 20:50:00: [Tương Dương (Cao)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 20:50:02: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPARE
+2023-10-29 21:00:02: [Phượng Tường (Trung)] Battle Change State ==> STATUS_NULL
+2023-10-29 21:00:02: [Tương Dương (Cao)] Battle Change State ==> STATUS_NULL
+2023-10-29 21:40:04: [Dương Châu (Sơ)] Battle Change State ==> STATUS_PREPAREEND
+2023-10-29 21:45:05: [Dương Châu (Sơ)] Battle Change State ==> STATUS_END
+2023-10-29 22:00:06: [Dương Châu (Sơ)] Battle Change State ==> STATUS_CLEAR
+2023-10-29 22:01:06: [Dương Châu (Sơ)] Battle Change State ==> STATUS_NULL

@@ -1,0 +1,49 @@
+2023-10-28 20:23:41: [COSTUMEXCHANGE][200003] Ghi lại tích lũy bị lỗi:2000
+2023-10-28 20:24:01: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack6|RoleId :200167
+2023-10-28 20:24:01: [RECHAGE][200167] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack6
+2023-10-28 20:24:01: [RECHAGE][200167] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack6| TransID :096BDD30FAF3477A5AC25CB678719348
+2023-10-28 20:25:58: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :200188
+2023-10-28 20:25:59: [RECHAGE][200188] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 20:25:59: [RECHAGE][200188] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :F1C2D92DBDDD24AF8F343F0BC11AA1C7
+2023-10-28 20:48:38: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack4|RoleId :200041
+2023-10-28 20:48:38: [RECHAGE][200041] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack4
+2023-10-28 20:48:38: [RECHAGE][200041] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack4| TransID :077D1B00F500FF55CF90A2763993ACEE
+2023-10-28 20:48:49: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack3|RoleId :200041
+2023-10-28 20:48:49: [RECHAGE][200041] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack3
+2023-10-28 20:48:49: [RECHAGE][200041] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack3| TransID :F1CE6D76D70D16C61088E8E541AC6B1F
+2023-10-28 20:48:58: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :200041
+2023-10-28 20:48:58: [RECHAGE][200041] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 20:48:58: [RECHAGE][200041] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :25F6C0F9B016ECC4AFB2DB8C33D3F32F
+2023-10-28 21:16:37: [COSTUMEXCHANGE][200463] Ghi lại tích lũy bị lỗi:1000
+2023-10-28 21:38:02: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack1|RoleId :200030
+2023-10-28 21:38:02: [RECHAGE][200030] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack1
+2023-10-28 21:38:02: [RECHAGE][200030] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack1| TransID :DE1DC1737FF3BF53D59817B991E8A681
+2023-10-28 21:47:29: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :200213
+2023-10-28 21:47:29: [RECHAGE][200213] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 21:47:29: [RECHAGE][200213] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :AABE8255962D12CE31299A35364488A8
+2023-10-28 21:48:23: [COSTUMEXCHANGE][200213] Ghi lại tích lũy bị lỗi:2000
+2023-10-28 21:48:29: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack8|RoleId :200043
+2023-10-28 21:48:29: [RECHAGE][200043] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack8
+2023-10-28 21:48:29: [RECHAGE][200043] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack8| TransID :9021B4A53AF8BE9CFC346BC0F322DD77
+2023-10-28 21:56:28: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :200167
+2023-10-28 21:56:28: [RECHAGE][200167] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 21:56:28: [RECHAGE][200167] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :4B02A1853ED8173650DB3142F5C7D6A0
+2023-10-28 22:05:28: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack3|RoleId :200178
+2023-10-28 22:05:29: [RECHAGE][200178] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack3
+2023-10-28 22:05:29: [RECHAGE][200178] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack3| TransID :B6AF3280EC2CDEB2B959466EBF3E48BB
+2023-10-28 22:07:00: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack5|RoleId :201303
+2023-10-28 22:07:00: [RECHAGE][201303] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack5
+2023-10-28 22:07:00: [RECHAGE][201303] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack5| TransID :4AFC9CB8F96610098EAC28DD0E98E814
+2023-10-28 22:07:15: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack4|RoleId :201303
+2023-10-28 22:07:16: [RECHAGE][201303] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack4
+2023-10-28 22:07:16: [RECHAGE][201303] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack4| TransID :FC69B998B7D1B209CE74A2311727FAF0
+2023-10-28 22:07:27: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :201303
+2023-10-28 22:07:28: [RECHAGE][201303] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 22:07:28: [RECHAGE][201303] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :5EC6572DA811039EE662C63390BAC8B1
+2023-10-28 22:44:14: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :201212
+2023-10-28 22:44:14: [RECHAGE][201212] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 22:44:14: [RECHAGE][201212] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :8914A8A4F8927C0A28E6F0B525AC41A8
+2023-10-28 23:37:53: [PackageName] Add yêu cầu mua gói :com.ktfog.mobi.pack2|RoleId :201920
+2023-10-28 23:37:54: [RECHAGE][201920] Xử lý yêu cầu mua gói :com.ktfog.mobi.pack2
+2023-10-28 23:37:54: [RECHAGE][201920] Ghi lại tích lũy bị lỗi:com.ktfog.mobi.pack2| TransID :E55DFEF82328C80DB92F68156120C060
+2023-10-28 23:49:21: [COSTUMEXCHANGE][200110] Ghi lại tích lũy bị lỗi:2400

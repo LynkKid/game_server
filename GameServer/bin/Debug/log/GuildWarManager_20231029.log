@@ -1,0 +1,2331 @@
+2023-10-29 02:09:37: SETUP MINI MAP
+2023-10-29 02:22:36: SETUP MINI MAP
+2023-10-29 02:32:40: SETUP MINI MAP
+2023-10-29 02:38:42: SETUP MINI MAP
+2023-10-29 02:44:59: SETUP MINI MAP
+2023-10-29 03:31:42: SETUP MINI MAP
+2023-10-29 01:41:45: SETUP MINI MAP
+2023-10-29 16:11:53: SETUP MINI MAP
+2023-10-29 20:00:00: Battle Change State ==> STATUS_REGISTER
+2023-10-29 20:00:02:  Battle Change State ==> STATUS_PREPARSTART
+2023-10-29 20:05:01: START CreateAllActiveWarMap
+2023-10-29 20:05:01: CREATE ALL ACTIVE WAR:1
+2023-10-29 20:05:01: TÌM MAP CONFIG CỦA BẢN ĐỒ:Vân Trung Trấn
+2023-10-29 20:05:01: START MAP WAR :
+2023-10-29 20:05:01: END CreateAllActiveWarMap
+2023-10-29 20:05:01: START MAP WAR :
+2023-10-29 20:05:01: Create CreateBuildingWhenStart:Long Tuyền Thôn
+2023-10-29 20:05:02: Create CreateBuildingWhenStart:Long Tuyền Thôn==>END
+2023-10-29 20:05:02: [36][Long Tuyền Thôn] CALL RELOAD CAMP :1
+2023-10-29 20:05:02: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:05:02: Create CreateBuildingWhenStart:Vân Trung Trấn
+2023-10-29 20:05:02: Create CreateBuildingWhenStart:Vân Trung Trấn==>END
+2023-10-29 20:05:02: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:05:02: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:05:02: START FillMoreInfoToMiniMap !
+2023-10-29 20:05:02: END FillMoreInfoToMiniMap!
+2023-10-29 20:05:02:  Battle Change State ==> STATUS_START
+2023-10-29 20:05:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:03: DO UpdateGuildRanking
+2023-10-29 20:05:03: END UpdateGuildRanking
+2023-10-29 20:05:03: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:05:03: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:05:03: CALL SPAM CAMP 
+2023-10-29 20:05:03: [36][Long Tuyền Thôn] CALL RELOAD CAMP :1
+2023-10-29 20:05:03: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:05:03: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:05:03: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:05:03: UpdateExpEvery30Sec
+2023-10-29 20:05:03: UpdateExpEvery30Sec END
+2023-10-29 20:05:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:12: DO UpdateGuildRanking
+2023-10-29 20:05:12: END UpdateGuildRanking
+2023-10-29 20:05:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:20: DO UpdateGuildRanking
+2023-10-29 20:05:20: END UpdateGuildRanking
+2023-10-29 20:05:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:28: DO UpdateGuildRanking
+2023-10-29 20:05:28: END UpdateGuildRanking
+2023-10-29 20:05:34: CALL SPAM CAMP 
+2023-10-29 20:05:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:05:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:05:34: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:05:34: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:05:34: UpdateExpEvery30Sec
+2023-10-29 20:05:34: UpdateExpEvery30Sec END
+2023-10-29 20:05:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:36: DO UpdateGuildRanking
+2023-10-29 20:05:36: END UpdateGuildRanking
+2023-10-29 20:05:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:44: DO UpdateGuildRanking
+2023-10-29 20:05:44: END UpdateGuildRanking
+2023-10-29 20:05:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:05:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:05:52: DO UpdateGuildRanking
+2023-10-29 20:05:52: END UpdateGuildRanking
+2023-10-29 20:06:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:00: DO UpdateGuildRanking
+2023-10-29 20:06:00: END UpdateGuildRanking
+2023-10-29 20:06:04: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:06:04: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:06:04: CALL SPAM CAMP 
+2023-10-29 20:06:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:06:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:06:04: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:06:04: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:06:04: UpdateExpEvery30Sec
+2023-10-29 20:06:04: UpdateExpEvery30Sec END
+2023-10-29 20:06:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:08: DO UpdateGuildRanking
+2023-10-29 20:06:08: END UpdateGuildRanking
+2023-10-29 20:06:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:16: DO UpdateGuildRanking
+2023-10-29 20:06:16: END UpdateGuildRanking
+2023-10-29 20:06:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:24: DO UpdateGuildRanking
+2023-10-29 20:06:24: END UpdateGuildRanking
+2023-10-29 20:06:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:32: DO UpdateGuildRanking
+2023-10-29 20:06:32: END UpdateGuildRanking
+2023-10-29 20:06:34: CALL SPAM CAMP 
+2023-10-29 20:06:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:06:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:06:34: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:06:34: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:06:34: UpdateExpEvery30Sec
+2023-10-29 20:06:34: UpdateExpEvery30Sec END
+2023-10-29 20:06:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:40: DO UpdateGuildRanking
+2023-10-29 20:06:40: END UpdateGuildRanking
+2023-10-29 20:06:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:48: DO UpdateGuildRanking
+2023-10-29 20:06:48: END UpdateGuildRanking
+2023-10-29 20:06:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:06:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:06:56: DO UpdateGuildRanking
+2023-10-29 20:06:56: END UpdateGuildRanking
+2023-10-29 20:07:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:04: DO UpdateGuildRanking
+2023-10-29 20:07:04: END UpdateGuildRanking
+2023-10-29 20:07:04: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:07:04: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:07:04: CALL SPAM CAMP 
+2023-10-29 20:07:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:07:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:07:04: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:07:04: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:07:04: UpdateExpEvery30Sec
+2023-10-29 20:07:04: UpdateExpEvery30Sec END
+2023-10-29 20:07:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:12: DO UpdateGuildRanking
+2023-10-29 20:07:12: END UpdateGuildRanking
+2023-10-29 20:07:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:20: DO UpdateGuildRanking
+2023-10-29 20:07:20: END UpdateGuildRanking
+2023-10-29 20:07:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:28: DO UpdateGuildRanking
+2023-10-29 20:07:28: END UpdateGuildRanking
+2023-10-29 20:07:34: CALL SPAM CAMP 
+2023-10-29 20:07:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:07:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:07:34: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:07:34: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:07:34: UpdateExpEvery30Sec
+2023-10-29 20:07:34: UpdateExpEvery30Sec END
+2023-10-29 20:07:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:36: DO UpdateGuildRanking
+2023-10-29 20:07:36: END UpdateGuildRanking
+2023-10-29 20:07:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:44: DO UpdateGuildRanking
+2023-10-29 20:07:44: END UpdateGuildRanking
+2023-10-29 20:07:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:07:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:07:52: DO UpdateGuildRanking
+2023-10-29 20:07:52: END UpdateGuildRanking
+2023-10-29 20:08:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:00: DO UpdateGuildRanking
+2023-10-29 20:08:00: END UpdateGuildRanking
+2023-10-29 20:08:04: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:08:04: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:08:04: CALL SPAM CAMP 
+2023-10-29 20:08:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:08:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:08:04: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:08:04: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:08:04: UpdateExpEvery30Sec
+2023-10-29 20:08:04: UpdateExpEvery30Sec END
+2023-10-29 20:08:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:08: DO UpdateGuildRanking
+2023-10-29 20:08:08: END UpdateGuildRanking
+2023-10-29 20:08:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:16: DO UpdateGuildRanking
+2023-10-29 20:08:16: END UpdateGuildRanking
+2023-10-29 20:08:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:24: DO UpdateGuildRanking
+2023-10-29 20:08:24: END UpdateGuildRanking
+2023-10-29 20:08:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:32: DO UpdateGuildRanking
+2023-10-29 20:08:32: END UpdateGuildRanking
+2023-10-29 20:08:34: CALL SPAM CAMP 
+2023-10-29 20:08:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:08:34: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:08:34: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:08:34: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:08:34: UpdateExpEvery30Sec
+2023-10-29 20:08:34: UpdateExpEvery30Sec END
+2023-10-29 20:08:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:40: DO UpdateGuildRanking
+2023-10-29 20:08:40: END UpdateGuildRanking
+2023-10-29 20:08:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:48: DO UpdateGuildRanking
+2023-10-29 20:08:48: END UpdateGuildRanking
+2023-10-29 20:08:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:08:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:08:56: DO UpdateGuildRanking
+2023-10-29 20:08:56: END UpdateGuildRanking
+2023-10-29 20:09:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:04: DO UpdateGuildRanking
+2023-10-29 20:09:04: END UpdateGuildRanking
+2023-10-29 20:09:04: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:09:04: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:09:04: CALL SPAM CAMP 
+2023-10-29 20:09:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:09:04: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:09:04: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:09:04: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:09:04: UpdateExpEvery30Sec
+2023-10-29 20:09:04: UpdateExpEvery30Sec END
+2023-10-29 20:09:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:12: DO UpdateGuildRanking
+2023-10-29 20:09:12: END UpdateGuildRanking
+2023-10-29 20:09:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:20: DO UpdateGuildRanking
+2023-10-29 20:09:20: END UpdateGuildRanking
+2023-10-29 20:09:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:28: DO UpdateGuildRanking
+2023-10-29 20:09:28: END UpdateGuildRanking
+2023-10-29 20:09:35: CALL SPAM CAMP 
+2023-10-29 20:09:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:09:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:09:35: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:09:35: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:09:35: UpdateExpEvery30Sec
+2023-10-29 20:09:35: UpdateExpEvery30Sec END
+2023-10-29 20:09:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:37: DO UpdateGuildRanking
+2023-10-29 20:09:37: END UpdateGuildRanking
+2023-10-29 20:09:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:45: DO UpdateGuildRanking
+2023-10-29 20:09:45: END UpdateGuildRanking
+2023-10-29 20:09:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:09:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:09:53: DO UpdateGuildRanking
+2023-10-29 20:09:53: END UpdateGuildRanking
+2023-10-29 20:10:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:01: DO UpdateGuildRanking
+2023-10-29 20:10:01: END UpdateGuildRanking
+2023-10-29 20:10:05: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:10:05: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:10:05: CALL SPAM CAMP 
+2023-10-29 20:10:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:10:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:10:05: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:10:05: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:10:05: UpdateExpEvery30Sec
+2023-10-29 20:10:05: UpdateExpEvery30Sec END
+2023-10-29 20:10:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:09: DO UpdateGuildRanking
+2023-10-29 20:10:09: END UpdateGuildRanking
+2023-10-29 20:10:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:17: DO UpdateGuildRanking
+2023-10-29 20:10:17: END UpdateGuildRanking
+2023-10-29 20:10:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:25: DO UpdateGuildRanking
+2023-10-29 20:10:25: END UpdateGuildRanking
+2023-10-29 20:10:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:33: DO UpdateGuildRanking
+2023-10-29 20:10:33: END UpdateGuildRanking
+2023-10-29 20:10:35: CALL SPAM CAMP 
+2023-10-29 20:10:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:10:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:10:35: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:10:35: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:10:35: UpdateExpEvery30Sec
+2023-10-29 20:10:35: UpdateExpEvery30Sec END
+2023-10-29 20:10:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:41: DO UpdateGuildRanking
+2023-10-29 20:10:41: END UpdateGuildRanking
+2023-10-29 20:10:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:49: DO UpdateGuildRanking
+2023-10-29 20:10:49: END UpdateGuildRanking
+2023-10-29 20:10:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:10:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:10:57: DO UpdateGuildRanking
+2023-10-29 20:10:57: END UpdateGuildRanking
+2023-10-29 20:11:05: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:05: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:05: DO UpdateGuildRanking
+2023-10-29 20:11:05: END UpdateGuildRanking
+2023-10-29 20:11:05: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:11:05: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:11:05: CALL SPAM CAMP 
+2023-10-29 20:11:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:11:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:11:05: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:11:05: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:11:05: UpdateExpEvery30Sec
+2023-10-29 20:11:05: UpdateExpEvery30Sec END
+2023-10-29 20:11:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:13: DO UpdateGuildRanking
+2023-10-29 20:11:13: END UpdateGuildRanking
+2023-10-29 20:11:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:21: DO UpdateGuildRanking
+2023-10-29 20:11:21: END UpdateGuildRanking
+2023-10-29 20:11:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:29: DO UpdateGuildRanking
+2023-10-29 20:11:29: END UpdateGuildRanking
+2023-10-29 20:11:35: CALL SPAM CAMP 
+2023-10-29 20:11:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:11:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:11:35: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:11:35: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:11:35: UpdateExpEvery30Sec
+2023-10-29 20:11:35: UpdateExpEvery30Sec END
+2023-10-29 20:11:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:37: DO UpdateGuildRanking
+2023-10-29 20:11:37: END UpdateGuildRanking
+2023-10-29 20:11:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:45: DO UpdateGuildRanking
+2023-10-29 20:11:45: END UpdateGuildRanking
+2023-10-29 20:11:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:11:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:11:53: DO UpdateGuildRanking
+2023-10-29 20:11:53: END UpdateGuildRanking
+2023-10-29 20:12:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:01: DO UpdateGuildRanking
+2023-10-29 20:12:01: END UpdateGuildRanking
+2023-10-29 20:12:05: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:12:05: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:12:05: CALL SPAM CAMP 
+2023-10-29 20:12:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:12:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:12:05: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:12:05: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:12:05: UpdateExpEvery30Sec
+2023-10-29 20:12:05: UpdateExpEvery30Sec END
+2023-10-29 20:12:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:09: DO UpdateGuildRanking
+2023-10-29 20:12:09: END UpdateGuildRanking
+2023-10-29 20:12:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:17: DO UpdateGuildRanking
+2023-10-29 20:12:17: END UpdateGuildRanking
+2023-10-29 20:12:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:25: DO UpdateGuildRanking
+2023-10-29 20:12:25: END UpdateGuildRanking
+2023-10-29 20:12:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:33: DO UpdateGuildRanking
+2023-10-29 20:12:33: END UpdateGuildRanking
+2023-10-29 20:12:35: CALL SPAM CAMP 
+2023-10-29 20:12:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:12:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:12:35: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:12:35: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:12:35: UpdateExpEvery30Sec
+2023-10-29 20:12:35: UpdateExpEvery30Sec END
+2023-10-29 20:12:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:41: DO UpdateGuildRanking
+2023-10-29 20:12:41: END UpdateGuildRanking
+2023-10-29 20:12:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:49: DO UpdateGuildRanking
+2023-10-29 20:12:49: END UpdateGuildRanking
+2023-10-29 20:12:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:12:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:12:57: DO UpdateGuildRanking
+2023-10-29 20:12:57: END UpdateGuildRanking
+2023-10-29 20:13:05: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:05: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:05: DO UpdateGuildRanking
+2023-10-29 20:13:05: END UpdateGuildRanking
+2023-10-29 20:13:05: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:13:05: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:13:05: CALL SPAM CAMP 
+2023-10-29 20:13:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:13:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:13:05: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:13:05: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:13:05: UpdateExpEvery30Sec
+2023-10-29 20:13:05: UpdateExpEvery30Sec END
+2023-10-29 20:13:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:13: DO UpdateGuildRanking
+2023-10-29 20:13:13: END UpdateGuildRanking
+2023-10-29 20:13:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:21: DO UpdateGuildRanking
+2023-10-29 20:13:21: END UpdateGuildRanking
+2023-10-29 20:13:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:29: DO UpdateGuildRanking
+2023-10-29 20:13:29: END UpdateGuildRanking
+2023-10-29 20:13:35: CALL SPAM CAMP 
+2023-10-29 20:13:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:13:35: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:13:35: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:13:35: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:13:35: UpdateExpEvery30Sec
+2023-10-29 20:13:35: UpdateExpEvery30Sec END
+2023-10-29 20:13:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:37: DO UpdateGuildRanking
+2023-10-29 20:13:37: END UpdateGuildRanking
+2023-10-29 20:13:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:45: DO UpdateGuildRanking
+2023-10-29 20:13:45: END UpdateGuildRanking
+2023-10-29 20:13:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:13:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:13:53: DO UpdateGuildRanking
+2023-10-29 20:13:53: END UpdateGuildRanking
+2023-10-29 20:14:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:01: DO UpdateGuildRanking
+2023-10-29 20:14:01: END UpdateGuildRanking
+2023-10-29 20:14:05: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:14:05: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:14:05: CALL SPAM CAMP 
+2023-10-29 20:14:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:14:05: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:14:05: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:14:05: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:14:05: UpdateExpEvery30Sec
+2023-10-29 20:14:05: UpdateExpEvery30Sec END
+2023-10-29 20:14:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:09: DO UpdateGuildRanking
+2023-10-29 20:14:09: END UpdateGuildRanking
+2023-10-29 20:14:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:17: DO UpdateGuildRanking
+2023-10-29 20:14:17: END UpdateGuildRanking
+2023-10-29 20:14:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:25: DO UpdateGuildRanking
+2023-10-29 20:14:25: END UpdateGuildRanking
+2023-10-29 20:14:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:34: DO UpdateGuildRanking
+2023-10-29 20:14:34: END UpdateGuildRanking
+2023-10-29 20:14:36: CALL SPAM CAMP 
+2023-10-29 20:14:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:14:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:14:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:14:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:14:36: UpdateExpEvery30Sec
+2023-10-29 20:14:36: UpdateExpEvery30Sec END
+2023-10-29 20:14:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:42: DO UpdateGuildRanking
+2023-10-29 20:14:42: END UpdateGuildRanking
+2023-10-29 20:14:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:50: DO UpdateGuildRanking
+2023-10-29 20:14:50: END UpdateGuildRanking
+2023-10-29 20:14:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:14:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:14:58: DO UpdateGuildRanking
+2023-10-29 20:14:58: END UpdateGuildRanking
+2023-10-29 20:15:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:06: DO UpdateGuildRanking
+2023-10-29 20:15:06: END UpdateGuildRanking
+2023-10-29 20:15:06: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:15:06: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:15:06: CALL SPAM CAMP 
+2023-10-29 20:15:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:15:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:15:06: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:15:06: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:15:06: UpdateExpEvery30Sec
+2023-10-29 20:15:06: UpdateExpEvery30Sec END
+2023-10-29 20:15:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:14: DO UpdateGuildRanking
+2023-10-29 20:15:14: END UpdateGuildRanking
+2023-10-29 20:15:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:22: DO UpdateGuildRanking
+2023-10-29 20:15:22: END UpdateGuildRanking
+2023-10-29 20:15:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:30: DO UpdateGuildRanking
+2023-10-29 20:15:30: END UpdateGuildRanking
+2023-10-29 20:15:36: CALL SPAM CAMP 
+2023-10-29 20:15:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:15:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:15:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:15:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:15:36: UpdateExpEvery30Sec
+2023-10-29 20:15:36: UpdateExpEvery30Sec END
+2023-10-29 20:15:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:38: DO UpdateGuildRanking
+2023-10-29 20:15:38: END UpdateGuildRanking
+2023-10-29 20:15:46: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:46: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:46: DO UpdateGuildRanking
+2023-10-29 20:15:46: END UpdateGuildRanking
+2023-10-29 20:15:54: DO NotifyToAllEvery5Secon
+2023-10-29 20:15:54: DO NotifyToAllEvery5Secon END
+2023-10-29 20:15:54: DO UpdateGuildRanking
+2023-10-29 20:15:54: END UpdateGuildRanking
+2023-10-29 20:16:02: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:02: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:02: DO UpdateGuildRanking
+2023-10-29 20:16:02: END UpdateGuildRanking
+2023-10-29 20:16:06: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:16:06: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:16:06: CALL SPAM CAMP 
+2023-10-29 20:16:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:16:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:16:06: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:16:06: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:16:06: UpdateExpEvery30Sec
+2023-10-29 20:16:06: UpdateExpEvery30Sec END
+2023-10-29 20:16:10: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:10: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:10: DO UpdateGuildRanking
+2023-10-29 20:16:10: END UpdateGuildRanking
+2023-10-29 20:16:18: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:18: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:18: DO UpdateGuildRanking
+2023-10-29 20:16:18: END UpdateGuildRanking
+2023-10-29 20:16:26: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:26: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:26: DO UpdateGuildRanking
+2023-10-29 20:16:26: END UpdateGuildRanking
+2023-10-29 20:16:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:34: DO UpdateGuildRanking
+2023-10-29 20:16:34: END UpdateGuildRanking
+2023-10-29 20:16:36: CALL SPAM CAMP 
+2023-10-29 20:16:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:16:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:16:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:16:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:16:36: UpdateExpEvery30Sec
+2023-10-29 20:16:36: UpdateExpEvery30Sec END
+2023-10-29 20:16:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:42: DO UpdateGuildRanking
+2023-10-29 20:16:42: END UpdateGuildRanking
+2023-10-29 20:16:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:50: DO UpdateGuildRanking
+2023-10-29 20:16:50: END UpdateGuildRanking
+2023-10-29 20:16:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:16:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:16:58: DO UpdateGuildRanking
+2023-10-29 20:16:58: END UpdateGuildRanking
+2023-10-29 20:17:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:06: DO UpdateGuildRanking
+2023-10-29 20:17:06: END UpdateGuildRanking
+2023-10-29 20:17:06: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:17:06: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:17:06: CALL SPAM CAMP 
+2023-10-29 20:17:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:17:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:17:06: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:17:06: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:17:06: UpdateExpEvery30Sec
+2023-10-29 20:17:06: UpdateExpEvery30Sec END
+2023-10-29 20:17:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:14: DO UpdateGuildRanking
+2023-10-29 20:17:14: END UpdateGuildRanking
+2023-10-29 20:17:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:22: DO UpdateGuildRanking
+2023-10-29 20:17:22: END UpdateGuildRanking
+2023-10-29 20:17:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:30: DO UpdateGuildRanking
+2023-10-29 20:17:30: END UpdateGuildRanking
+2023-10-29 20:17:36: CALL SPAM CAMP 
+2023-10-29 20:17:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:17:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:17:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:17:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:17:36: UpdateExpEvery30Sec
+2023-10-29 20:17:36: UpdateExpEvery30Sec END
+2023-10-29 20:17:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:38: DO UpdateGuildRanking
+2023-10-29 20:17:38: END UpdateGuildRanking
+2023-10-29 20:17:46: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:46: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:46: DO UpdateGuildRanking
+2023-10-29 20:17:46: END UpdateGuildRanking
+2023-10-29 20:17:54: DO NotifyToAllEvery5Secon
+2023-10-29 20:17:54: DO NotifyToAllEvery5Secon END
+2023-10-29 20:17:54: DO UpdateGuildRanking
+2023-10-29 20:17:54: END UpdateGuildRanking
+2023-10-29 20:18:02: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:02: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:02: DO UpdateGuildRanking
+2023-10-29 20:18:02: END UpdateGuildRanking
+2023-10-29 20:18:06: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:18:06: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:18:06: CALL SPAM CAMP 
+2023-10-29 20:18:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:18:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:18:06: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:18:06: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:18:06: UpdateExpEvery30Sec
+2023-10-29 20:18:06: UpdateExpEvery30Sec END
+2023-10-29 20:18:10: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:10: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:10: DO UpdateGuildRanking
+2023-10-29 20:18:10: END UpdateGuildRanking
+2023-10-29 20:18:18: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:18: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:18: DO UpdateGuildRanking
+2023-10-29 20:18:18: END UpdateGuildRanking
+2023-10-29 20:18:26: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:26: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:26: DO UpdateGuildRanking
+2023-10-29 20:18:26: END UpdateGuildRanking
+2023-10-29 20:18:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:34: DO UpdateGuildRanking
+2023-10-29 20:18:34: END UpdateGuildRanking
+2023-10-29 20:18:36: CALL SPAM CAMP 
+2023-10-29 20:18:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:18:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:18:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:18:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:18:36: UpdateExpEvery30Sec
+2023-10-29 20:18:36: UpdateExpEvery30Sec END
+2023-10-29 20:18:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:42: DO UpdateGuildRanking
+2023-10-29 20:18:42: END UpdateGuildRanking
+2023-10-29 20:18:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:50: DO UpdateGuildRanking
+2023-10-29 20:18:50: END UpdateGuildRanking
+2023-10-29 20:18:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:18:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:18:58: DO UpdateGuildRanking
+2023-10-29 20:18:58: END UpdateGuildRanking
+2023-10-29 20:19:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:06: DO UpdateGuildRanking
+2023-10-29 20:19:06: END UpdateGuildRanking
+2023-10-29 20:19:06: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:19:06: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:19:06: CALL SPAM CAMP 
+2023-10-29 20:19:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:19:06: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:19:06: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:19:06: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:19:06: UpdateExpEvery30Sec
+2023-10-29 20:19:06: UpdateExpEvery30Sec END
+2023-10-29 20:19:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:14: DO UpdateGuildRanking
+2023-10-29 20:19:14: END UpdateGuildRanking
+2023-10-29 20:19:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:22: DO UpdateGuildRanking
+2023-10-29 20:19:22: END UpdateGuildRanking
+2023-10-29 20:19:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:30: DO UpdateGuildRanking
+2023-10-29 20:19:30: END UpdateGuildRanking
+2023-10-29 20:19:36: CALL SPAM CAMP 
+2023-10-29 20:19:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:19:36: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:19:36: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:19:36: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:19:36: UpdateExpEvery30Sec
+2023-10-29 20:19:36: UpdateExpEvery30Sec END
+2023-10-29 20:19:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:38: DO UpdateGuildRanking
+2023-10-29 20:19:38: END UpdateGuildRanking
+2023-10-29 20:19:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:47: DO UpdateGuildRanking
+2023-10-29 20:19:47: END UpdateGuildRanking
+2023-10-29 20:19:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:19:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:19:55: DO UpdateGuildRanking
+2023-10-29 20:19:55: END UpdateGuildRanking
+2023-10-29 20:20:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:03: DO UpdateGuildRanking
+2023-10-29 20:20:03: END UpdateGuildRanking
+2023-10-29 20:20:07: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:20:07: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:20:07: CALL SPAM CAMP 
+2023-10-29 20:20:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:20:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:20:07: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:20:07: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:20:07: UpdateExpEvery30Sec
+2023-10-29 20:20:07: UpdateExpEvery30Sec END
+2023-10-29 20:20:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:11: DO UpdateGuildRanking
+2023-10-29 20:20:11: END UpdateGuildRanking
+2023-10-29 20:20:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:19: DO UpdateGuildRanking
+2023-10-29 20:20:19: END UpdateGuildRanking
+2023-10-29 20:20:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:27: DO UpdateGuildRanking
+2023-10-29 20:20:27: END UpdateGuildRanking
+2023-10-29 20:20:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:35: DO UpdateGuildRanking
+2023-10-29 20:20:35: END UpdateGuildRanking
+2023-10-29 20:20:37: CALL SPAM CAMP 
+2023-10-29 20:20:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:20:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:20:37: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:20:37: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:20:37: UpdateExpEvery30Sec
+2023-10-29 20:20:37: UpdateExpEvery30Sec END
+2023-10-29 20:20:43: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:43: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:43: DO UpdateGuildRanking
+2023-10-29 20:20:43: END UpdateGuildRanking
+2023-10-29 20:20:51: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:51: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:51: DO UpdateGuildRanking
+2023-10-29 20:20:51: END UpdateGuildRanking
+2023-10-29 20:20:59: DO NotifyToAllEvery5Secon
+2023-10-29 20:20:59: DO NotifyToAllEvery5Secon END
+2023-10-29 20:20:59: DO UpdateGuildRanking
+2023-10-29 20:20:59: END UpdateGuildRanking
+2023-10-29 20:21:07: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:07: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:07: DO UpdateGuildRanking
+2023-10-29 20:21:07: END UpdateGuildRanking
+2023-10-29 20:21:07: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:21:07: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:21:07: CALL SPAM CAMP 
+2023-10-29 20:21:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:21:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:21:07: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:21:07: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:21:07: UpdateExpEvery30Sec
+2023-10-29 20:21:07: UpdateExpEvery30Sec END
+2023-10-29 20:21:15: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:15: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:15: DO UpdateGuildRanking
+2023-10-29 20:21:15: END UpdateGuildRanking
+2023-10-29 20:21:23: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:23: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:23: DO UpdateGuildRanking
+2023-10-29 20:21:23: END UpdateGuildRanking
+2023-10-29 20:21:31: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:31: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:31: DO UpdateGuildRanking
+2023-10-29 20:21:31: END UpdateGuildRanking
+2023-10-29 20:21:37: CALL SPAM CAMP 
+2023-10-29 20:21:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:21:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:21:37: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:21:37: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:21:37: UpdateExpEvery30Sec
+2023-10-29 20:21:37: UpdateExpEvery30Sec END
+2023-10-29 20:21:39: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:39: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:39: DO UpdateGuildRanking
+2023-10-29 20:21:39: END UpdateGuildRanking
+2023-10-29 20:21:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:47: DO UpdateGuildRanking
+2023-10-29 20:21:47: END UpdateGuildRanking
+2023-10-29 20:21:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:21:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:21:55: DO UpdateGuildRanking
+2023-10-29 20:21:55: END UpdateGuildRanking
+2023-10-29 20:22:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:03: DO UpdateGuildRanking
+2023-10-29 20:22:03: END UpdateGuildRanking
+2023-10-29 20:22:07: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:22:07: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:22:07: CALL SPAM CAMP 
+2023-10-29 20:22:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:22:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:22:07: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:22:07: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:22:07: UpdateExpEvery30Sec
+2023-10-29 20:22:07: UpdateExpEvery30Sec END
+2023-10-29 20:22:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:11: DO UpdateGuildRanking
+2023-10-29 20:22:11: END UpdateGuildRanking
+2023-10-29 20:22:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:19: DO UpdateGuildRanking
+2023-10-29 20:22:19: END UpdateGuildRanking
+2023-10-29 20:22:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:27: DO UpdateGuildRanking
+2023-10-29 20:22:27: END UpdateGuildRanking
+2023-10-29 20:22:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:35: DO UpdateGuildRanking
+2023-10-29 20:22:35: END UpdateGuildRanking
+2023-10-29 20:22:37: CALL SPAM CAMP 
+2023-10-29 20:22:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:22:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:22:37: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:22:37: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:22:37: UpdateExpEvery30Sec
+2023-10-29 20:22:37: UpdateExpEvery30Sec END
+2023-10-29 20:22:43: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:43: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:43: DO UpdateGuildRanking
+2023-10-29 20:22:43: END UpdateGuildRanking
+2023-10-29 20:22:51: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:51: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:51: DO UpdateGuildRanking
+2023-10-29 20:22:51: END UpdateGuildRanking
+2023-10-29 20:22:59: DO NotifyToAllEvery5Secon
+2023-10-29 20:22:59: DO NotifyToAllEvery5Secon END
+2023-10-29 20:22:59: DO UpdateGuildRanking
+2023-10-29 20:22:59: END UpdateGuildRanking
+2023-10-29 20:23:07: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:07: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:07: DO UpdateGuildRanking
+2023-10-29 20:23:07: END UpdateGuildRanking
+2023-10-29 20:23:07: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:23:07: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:23:07: CALL SPAM CAMP 
+2023-10-29 20:23:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:23:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:23:07: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:23:07: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:23:07: UpdateExpEvery30Sec
+2023-10-29 20:23:07: UpdateExpEvery30Sec END
+2023-10-29 20:23:15: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:15: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:15: DO UpdateGuildRanking
+2023-10-29 20:23:15: END UpdateGuildRanking
+2023-10-29 20:23:23: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:23: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:23: DO UpdateGuildRanking
+2023-10-29 20:23:23: END UpdateGuildRanking
+2023-10-29 20:23:31: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:31: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:31: DO UpdateGuildRanking
+2023-10-29 20:23:31: END UpdateGuildRanking
+2023-10-29 20:23:37: CALL SPAM CAMP 
+2023-10-29 20:23:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:23:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:23:37: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:23:37: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:23:37: UpdateExpEvery30Sec
+2023-10-29 20:23:37: UpdateExpEvery30Sec END
+2023-10-29 20:23:39: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:39: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:39: DO UpdateGuildRanking
+2023-10-29 20:23:39: END UpdateGuildRanking
+2023-10-29 20:23:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:47: DO UpdateGuildRanking
+2023-10-29 20:23:47: END UpdateGuildRanking
+2023-10-29 20:23:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:23:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:23:55: DO UpdateGuildRanking
+2023-10-29 20:23:55: END UpdateGuildRanking
+2023-10-29 20:24:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:03: DO UpdateGuildRanking
+2023-10-29 20:24:03: END UpdateGuildRanking
+2023-10-29 20:24:07: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:24:07: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:24:07: CALL SPAM CAMP 
+2023-10-29 20:24:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:24:07: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:24:07: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:24:07: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:24:07: UpdateExpEvery30Sec
+2023-10-29 20:24:07: UpdateExpEvery30Sec END
+2023-10-29 20:24:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:11: DO UpdateGuildRanking
+2023-10-29 20:24:11: END UpdateGuildRanking
+2023-10-29 20:24:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:19: DO UpdateGuildRanking
+2023-10-29 20:24:19: END UpdateGuildRanking
+2023-10-29 20:24:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:27: DO UpdateGuildRanking
+2023-10-29 20:24:27: END UpdateGuildRanking
+2023-10-29 20:24:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:35: DO UpdateGuildRanking
+2023-10-29 20:24:35: END UpdateGuildRanking
+2023-10-29 20:24:37: CALL SPAM CAMP 
+2023-10-29 20:24:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:24:37: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:24:37: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:24:37: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:24:37: UpdateExpEvery30Sec
+2023-10-29 20:24:37: UpdateExpEvery30Sec END
+2023-10-29 20:24:43: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:43: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:43: DO UpdateGuildRanking
+2023-10-29 20:24:43: END UpdateGuildRanking
+2023-10-29 20:24:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:24:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:24:52: DO UpdateGuildRanking
+2023-10-29 20:24:52: END UpdateGuildRanking
+2023-10-29 20:25:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:00: DO UpdateGuildRanking
+2023-10-29 20:25:00: END UpdateGuildRanking
+2023-10-29 20:25:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:08: DO UpdateGuildRanking
+2023-10-29 20:25:08: END UpdateGuildRanking
+2023-10-29 20:25:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:25:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:25:08: CALL SPAM CAMP 
+2023-10-29 20:25:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:25:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:25:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:25:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:25:08: UpdateExpEvery30Sec
+2023-10-29 20:25:08: UpdateExpEvery30Sec END
+2023-10-29 20:25:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:16: DO UpdateGuildRanking
+2023-10-29 20:25:16: END UpdateGuildRanking
+2023-10-29 20:25:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:24: DO UpdateGuildRanking
+2023-10-29 20:25:24: END UpdateGuildRanking
+2023-10-29 20:25:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:32: DO UpdateGuildRanking
+2023-10-29 20:25:32: END UpdateGuildRanking
+2023-10-29 20:25:38: CALL SPAM CAMP 
+2023-10-29 20:25:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:25:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:25:38: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:25:38: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:25:38: UpdateExpEvery30Sec
+2023-10-29 20:25:38: UpdateExpEvery30Sec END
+2023-10-29 20:25:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:40: DO UpdateGuildRanking
+2023-10-29 20:25:40: END UpdateGuildRanking
+2023-10-29 20:25:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:48: DO UpdateGuildRanking
+2023-10-29 20:25:48: END UpdateGuildRanking
+2023-10-29 20:25:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:25:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:25:56: DO UpdateGuildRanking
+2023-10-29 20:25:56: END UpdateGuildRanking
+2023-10-29 20:26:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:04: DO UpdateGuildRanking
+2023-10-29 20:26:04: END UpdateGuildRanking
+2023-10-29 20:26:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:26:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:26:08: CALL SPAM CAMP 
+2023-10-29 20:26:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :8
+2023-10-29 20:26:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :8
+2023-10-29 20:26:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:26:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:26:08: UpdateExpEvery30Sec
+2023-10-29 20:26:08: UpdateExpEvery30Sec END
+2023-10-29 20:26:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:12: DO UpdateGuildRanking
+2023-10-29 20:26:12: END UpdateGuildRanking
+2023-10-29 20:26:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:20: DO UpdateGuildRanking
+2023-10-29 20:26:20: END UpdateGuildRanking
+2023-10-29 20:26:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:28: DO UpdateGuildRanking
+2023-10-29 20:26:28: END UpdateGuildRanking
+2023-10-29 20:26:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:36: DO UpdateGuildRanking
+2023-10-29 20:26:36: END UpdateGuildRanking
+2023-10-29 20:26:38: CALL SPAM CAMP 
+2023-10-29 20:26:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:26:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:26:38: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:26:38: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:26:38: UpdateExpEvery30Sec
+2023-10-29 20:26:38: UpdateExpEvery30Sec END
+2023-10-29 20:26:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:44: DO UpdateGuildRanking
+2023-10-29 20:26:44: END UpdateGuildRanking
+2023-10-29 20:26:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:26:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:26:52: DO UpdateGuildRanking
+2023-10-29 20:26:52: END UpdateGuildRanking
+2023-10-29 20:27:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:00: DO UpdateGuildRanking
+2023-10-29 20:27:00: END UpdateGuildRanking
+2023-10-29 20:27:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:08: DO UpdateGuildRanking
+2023-10-29 20:27:08: END UpdateGuildRanking
+2023-10-29 20:27:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:27:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:27:08: CALL SPAM CAMP 
+2023-10-29 20:27:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:27:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:27:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:27:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:27:08: UpdateExpEvery30Sec
+2023-10-29 20:27:08: UpdateExpEvery30Sec END
+2023-10-29 20:27:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:16: DO UpdateGuildRanking
+2023-10-29 20:27:16: END UpdateGuildRanking
+2023-10-29 20:27:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:24: DO UpdateGuildRanking
+2023-10-29 20:27:24: END UpdateGuildRanking
+2023-10-29 20:27:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:32: DO UpdateGuildRanking
+2023-10-29 20:27:32: END UpdateGuildRanking
+2023-10-29 20:27:38: CALL SPAM CAMP 
+2023-10-29 20:27:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:27:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:27:38: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:27:38: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:27:38: UpdateExpEvery30Sec
+2023-10-29 20:27:38: UpdateExpEvery30Sec END
+2023-10-29 20:27:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:40: DO UpdateGuildRanking
+2023-10-29 20:27:40: END UpdateGuildRanking
+2023-10-29 20:27:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:48: DO UpdateGuildRanking
+2023-10-29 20:27:48: END UpdateGuildRanking
+2023-10-29 20:27:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:27:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:27:56: DO UpdateGuildRanking
+2023-10-29 20:27:56: END UpdateGuildRanking
+2023-10-29 20:28:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:04: DO UpdateGuildRanking
+2023-10-29 20:28:04: END UpdateGuildRanking
+2023-10-29 20:28:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:28:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:28:08: CALL SPAM CAMP 
+2023-10-29 20:28:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:28:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:28:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:28:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:28:08: UpdateExpEvery30Sec
+2023-10-29 20:28:08: UpdateExpEvery30Sec END
+2023-10-29 20:28:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:12: DO UpdateGuildRanking
+2023-10-29 20:28:12: END UpdateGuildRanking
+2023-10-29 20:28:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:20: DO UpdateGuildRanking
+2023-10-29 20:28:20: END UpdateGuildRanking
+2023-10-29 20:28:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:28: DO UpdateGuildRanking
+2023-10-29 20:28:28: END UpdateGuildRanking
+2023-10-29 20:28:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:36: DO UpdateGuildRanking
+2023-10-29 20:28:36: END UpdateGuildRanking
+2023-10-29 20:28:38: CALL SPAM CAMP 
+2023-10-29 20:28:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:28:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:28:38: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:28:38: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:28:38: UpdateExpEvery30Sec
+2023-10-29 20:28:38: UpdateExpEvery30Sec END
+2023-10-29 20:28:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:44: DO UpdateGuildRanking
+2023-10-29 20:28:44: END UpdateGuildRanking
+2023-10-29 20:28:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:28:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:28:52: DO UpdateGuildRanking
+2023-10-29 20:28:52: END UpdateGuildRanking
+2023-10-29 20:29:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:00: DO UpdateGuildRanking
+2023-10-29 20:29:00: END UpdateGuildRanking
+2023-10-29 20:29:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:08: DO UpdateGuildRanking
+2023-10-29 20:29:08: END UpdateGuildRanking
+2023-10-29 20:29:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:29:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:29:08: CALL SPAM CAMP 
+2023-10-29 20:29:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:29:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:29:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:29:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:29:08: UpdateExpEvery30Sec
+2023-10-29 20:29:08: UpdateExpEvery30Sec END
+2023-10-29 20:29:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:16: DO UpdateGuildRanking
+2023-10-29 20:29:16: END UpdateGuildRanking
+2023-10-29 20:29:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:24: DO UpdateGuildRanking
+2023-10-29 20:29:24: END UpdateGuildRanking
+2023-10-29 20:29:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:32: DO UpdateGuildRanking
+2023-10-29 20:29:32: END UpdateGuildRanking
+2023-10-29 20:29:38: CALL SPAM CAMP 
+2023-10-29 20:29:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP :7
+2023-10-29 20:29:38: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :7
+2023-10-29 20:29:38: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:29:38: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:29:38: UpdateExpEvery30Sec
+2023-10-29 20:29:38: UpdateExpEvery30Sec END
+2023-10-29 20:29:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:40: DO UpdateGuildRanking
+2023-10-29 20:29:40: END UpdateGuildRanking
+2023-10-29 20:29:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:48: DO UpdateGuildRanking
+2023-10-29 20:29:48: END UpdateGuildRanking
+2023-10-29 20:29:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:29:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:29:56: DO UpdateGuildRanking
+2023-10-29 20:29:56: END UpdateGuildRanking
+2023-10-29 20:30:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:04: DO UpdateGuildRanking
+2023-10-29 20:30:04: END UpdateGuildRanking
+2023-10-29 20:30:08: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:30:08: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:30:08: CALL SPAM CAMP 
+2023-10-29 20:30:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP :6
+2023-10-29 20:30:08: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :6
+2023-10-29 20:30:08: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:30:08: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:30:08: UpdateExpEvery30Sec
+2023-10-29 20:30:08: UpdateExpEvery30Sec END
+2023-10-29 20:30:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:12: DO UpdateGuildRanking
+2023-10-29 20:30:12: END UpdateGuildRanking
+2023-10-29 20:30:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:21: DO UpdateGuildRanking
+2023-10-29 20:30:21: END UpdateGuildRanking
+2023-10-29 20:30:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:29: DO UpdateGuildRanking
+2023-10-29 20:30:29: END UpdateGuildRanking
+2023-10-29 20:30:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:37: DO UpdateGuildRanking
+2023-10-29 20:30:37: END UpdateGuildRanking
+2023-10-29 20:30:39: CALL SPAM CAMP 
+2023-10-29 20:30:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:30:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:30:39: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:30:39: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:30:39: UpdateExpEvery30Sec
+2023-10-29 20:30:39: UpdateExpEvery30Sec END
+2023-10-29 20:30:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:45: DO UpdateGuildRanking
+2023-10-29 20:30:45: END UpdateGuildRanking
+2023-10-29 20:30:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:30:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:30:53: DO UpdateGuildRanking
+2023-10-29 20:30:53: END UpdateGuildRanking
+2023-10-29 20:31:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:01: DO UpdateGuildRanking
+2023-10-29 20:31:01: END UpdateGuildRanking
+2023-10-29 20:31:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:09: DO UpdateGuildRanking
+2023-10-29 20:31:09: END UpdateGuildRanking
+2023-10-29 20:31:09: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:31:09: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:31:09: CALL SPAM CAMP 
+2023-10-29 20:31:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:31:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:31:09: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:31:09: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:31:09: UpdateExpEvery30Sec
+2023-10-29 20:31:09: UpdateExpEvery30Sec END
+2023-10-29 20:31:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:17: DO UpdateGuildRanking
+2023-10-29 20:31:17: END UpdateGuildRanking
+2023-10-29 20:31:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:25: DO UpdateGuildRanking
+2023-10-29 20:31:25: END UpdateGuildRanking
+2023-10-29 20:31:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:33: DO UpdateGuildRanking
+2023-10-29 20:31:33: END UpdateGuildRanking
+2023-10-29 20:31:39: CALL SPAM CAMP 
+2023-10-29 20:31:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:31:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:31:39: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:31:39: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:31:39: UpdateExpEvery30Sec
+2023-10-29 20:31:39: UpdateExpEvery30Sec END
+2023-10-29 20:31:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:41: DO UpdateGuildRanking
+2023-10-29 20:31:41: END UpdateGuildRanking
+2023-10-29 20:31:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:49: DO UpdateGuildRanking
+2023-10-29 20:31:49: END UpdateGuildRanking
+2023-10-29 20:31:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:31:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:31:57: DO UpdateGuildRanking
+2023-10-29 20:31:57: END UpdateGuildRanking
+2023-10-29 20:32:05: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:05: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:05: DO UpdateGuildRanking
+2023-10-29 20:32:05: END UpdateGuildRanking
+2023-10-29 20:32:09: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:32:09: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:32:09: CALL SPAM CAMP 
+2023-10-29 20:32:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:32:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:32:09: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:32:09: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:32:09: UpdateExpEvery30Sec
+2023-10-29 20:32:09: UpdateExpEvery30Sec END
+2023-10-29 20:32:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:13: DO UpdateGuildRanking
+2023-10-29 20:32:13: END UpdateGuildRanking
+2023-10-29 20:32:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:21: DO UpdateGuildRanking
+2023-10-29 20:32:21: END UpdateGuildRanking
+2023-10-29 20:32:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:29: DO UpdateGuildRanking
+2023-10-29 20:32:29: END UpdateGuildRanking
+2023-10-29 20:32:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:37: DO UpdateGuildRanking
+2023-10-29 20:32:37: END UpdateGuildRanking
+2023-10-29 20:32:39: CALL SPAM CAMP 
+2023-10-29 20:32:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:32:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:32:39: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:32:39: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:32:39: UpdateExpEvery30Sec
+2023-10-29 20:32:39: UpdateExpEvery30Sec END
+2023-10-29 20:32:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:45: DO UpdateGuildRanking
+2023-10-29 20:32:45: END UpdateGuildRanking
+2023-10-29 20:32:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:32:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:32:53: DO UpdateGuildRanking
+2023-10-29 20:32:53: END UpdateGuildRanking
+2023-10-29 20:33:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:01: DO UpdateGuildRanking
+2023-10-29 20:33:01: END UpdateGuildRanking
+2023-10-29 20:33:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:09: DO UpdateGuildRanking
+2023-10-29 20:33:09: END UpdateGuildRanking
+2023-10-29 20:33:09: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:33:09: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:33:09: CALL SPAM CAMP 
+2023-10-29 20:33:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:33:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:33:09: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:33:09: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:33:09: UpdateExpEvery30Sec
+2023-10-29 20:33:09: UpdateExpEvery30Sec END
+2023-10-29 20:33:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:17: DO UpdateGuildRanking
+2023-10-29 20:33:17: END UpdateGuildRanking
+2023-10-29 20:33:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:25: DO UpdateGuildRanking
+2023-10-29 20:33:25: END UpdateGuildRanking
+2023-10-29 20:33:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:33: DO UpdateGuildRanking
+2023-10-29 20:33:33: END UpdateGuildRanking
+2023-10-29 20:33:39: CALL SPAM CAMP 
+2023-10-29 20:33:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:33:39: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:33:39: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:33:39: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:33:39: UpdateExpEvery30Sec
+2023-10-29 20:33:39: UpdateExpEvery30Sec END
+2023-10-29 20:33:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:41: DO UpdateGuildRanking
+2023-10-29 20:33:41: END UpdateGuildRanking
+2023-10-29 20:33:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:49: DO UpdateGuildRanking
+2023-10-29 20:33:49: END UpdateGuildRanking
+2023-10-29 20:33:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:33:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:33:57: DO UpdateGuildRanking
+2023-10-29 20:33:57: END UpdateGuildRanking
+2023-10-29 20:34:05: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:05: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:05: DO UpdateGuildRanking
+2023-10-29 20:34:05: END UpdateGuildRanking
+2023-10-29 20:34:09: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:34:09: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:34:09: CALL SPAM CAMP 
+2023-10-29 20:34:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:34:09: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:34:09: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:34:09: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:34:09: UpdateExpEvery30Sec
+2023-10-29 20:34:09: UpdateExpEvery30Sec END
+2023-10-29 20:34:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:13: DO UpdateGuildRanking
+2023-10-29 20:34:13: END UpdateGuildRanking
+2023-10-29 20:34:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:21: DO UpdateGuildRanking
+2023-10-29 20:34:21: END UpdateGuildRanking
+2023-10-29 20:34:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:29: DO UpdateGuildRanking
+2023-10-29 20:34:29: END UpdateGuildRanking
+2023-10-29 20:34:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:38: DO UpdateGuildRanking
+2023-10-29 20:34:38: END UpdateGuildRanking
+2023-10-29 20:34:40: CALL SPAM CAMP 
+2023-10-29 20:34:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :9
+2023-10-29 20:34:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :9
+2023-10-29 20:34:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:34:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:34:40: UpdateExpEvery30Sec
+2023-10-29 20:34:40: UpdateExpEvery30Sec END
+2023-10-29 20:34:46: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:46: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:46: DO UpdateGuildRanking
+2023-10-29 20:34:46: END UpdateGuildRanking
+2023-10-29 20:34:54: DO NotifyToAllEvery5Secon
+2023-10-29 20:34:54: DO NotifyToAllEvery5Secon END
+2023-10-29 20:34:54: DO UpdateGuildRanking
+2023-10-29 20:34:54: END UpdateGuildRanking
+2023-10-29 20:35:02: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:02: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:02: DO UpdateGuildRanking
+2023-10-29 20:35:02: END UpdateGuildRanking
+2023-10-29 20:35:10: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:10: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:10: DO UpdateGuildRanking
+2023-10-29 20:35:10: END UpdateGuildRanking
+2023-10-29 20:35:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:35:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:35:10: CALL SPAM CAMP 
+2023-10-29 20:35:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :11
+2023-10-29 20:35:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :11
+2023-10-29 20:35:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:35:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:35:10: UpdateExpEvery30Sec
+2023-10-29 20:35:10: UpdateExpEvery30Sec END
+2023-10-29 20:35:18: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:18: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:18: DO UpdateGuildRanking
+2023-10-29 20:35:18: END UpdateGuildRanking
+2023-10-29 20:35:26: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:26: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:26: DO UpdateGuildRanking
+2023-10-29 20:35:26: END UpdateGuildRanking
+2023-10-29 20:35:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:34: DO UpdateGuildRanking
+2023-10-29 20:35:34: END UpdateGuildRanking
+2023-10-29 20:35:40: CALL SPAM CAMP 
+2023-10-29 20:35:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :11
+2023-10-29 20:35:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :11
+2023-10-29 20:35:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:35:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:35:40: UpdateExpEvery30Sec
+2023-10-29 20:35:40: UpdateExpEvery30Sec END
+2023-10-29 20:35:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:42: DO UpdateGuildRanking
+2023-10-29 20:35:42: END UpdateGuildRanking
+2023-10-29 20:35:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:50: DO UpdateGuildRanking
+2023-10-29 20:35:50: END UpdateGuildRanking
+2023-10-29 20:35:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:35:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:35:58: DO UpdateGuildRanking
+2023-10-29 20:35:58: END UpdateGuildRanking
+2023-10-29 20:36:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:06: DO UpdateGuildRanking
+2023-10-29 20:36:06: END UpdateGuildRanking
+2023-10-29 20:36:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:36:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:36:10: CALL SPAM CAMP 
+2023-10-29 20:36:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:36:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:36:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :0
+2023-10-29 20:36:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :0
+2023-10-29 20:36:10: UpdateExpEvery30Sec
+2023-10-29 20:36:10: UpdateExpEvery30Sec END
+2023-10-29 20:36:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:14: DO UpdateGuildRanking
+2023-10-29 20:36:14: END UpdateGuildRanking
+2023-10-29 20:36:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:22: DO UpdateGuildRanking
+2023-10-29 20:36:22: END UpdateGuildRanking
+2023-10-29 20:36:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:30: DO UpdateGuildRanking
+2023-10-29 20:36:30: END UpdateGuildRanking
+2023-10-29 20:36:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:38: DO UpdateGuildRanking
+2023-10-29 20:36:38: END UpdateGuildRanking
+2023-10-29 20:36:40: CALL SPAM CAMP 
+2023-10-29 20:36:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:36:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:36:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:36:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:36:40: UpdateExpEvery30Sec
+2023-10-29 20:36:40: UpdateExpEvery30Sec END
+2023-10-29 20:36:46: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:46: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:46: DO UpdateGuildRanking
+2023-10-29 20:36:46: END UpdateGuildRanking
+2023-10-29 20:36:54: DO NotifyToAllEvery5Secon
+2023-10-29 20:36:54: DO NotifyToAllEvery5Secon END
+2023-10-29 20:36:54: DO UpdateGuildRanking
+2023-10-29 20:36:54: END UpdateGuildRanking
+2023-10-29 20:37:02: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:02: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:02: DO UpdateGuildRanking
+2023-10-29 20:37:02: END UpdateGuildRanking
+2023-10-29 20:37:10: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:10: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:10: DO UpdateGuildRanking
+2023-10-29 20:37:10: END UpdateGuildRanking
+2023-10-29 20:37:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:37:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:37:10: CALL SPAM CAMP 
+2023-10-29 20:37:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :10
+2023-10-29 20:37:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :10
+2023-10-29 20:37:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:37:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:37:10: UpdateExpEvery30Sec
+2023-10-29 20:37:10: UpdateExpEvery30Sec END
+2023-10-29 20:37:18: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:18: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:18: DO UpdateGuildRanking
+2023-10-29 20:37:18: END UpdateGuildRanking
+2023-10-29 20:37:26: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:26: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:26: DO UpdateGuildRanking
+2023-10-29 20:37:26: END UpdateGuildRanking
+2023-10-29 20:37:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:34: DO UpdateGuildRanking
+2023-10-29 20:37:34: END UpdateGuildRanking
+2023-10-29 20:37:40: CALL SPAM CAMP 
+2023-10-29 20:37:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :11
+2023-10-29 20:37:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :11
+2023-10-29 20:37:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:37:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:37:40: UpdateExpEvery30Sec
+2023-10-29 20:37:40: UpdateExpEvery30Sec END
+2023-10-29 20:37:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:42: DO UpdateGuildRanking
+2023-10-29 20:37:42: END UpdateGuildRanking
+2023-10-29 20:37:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:50: DO UpdateGuildRanking
+2023-10-29 20:37:50: END UpdateGuildRanking
+2023-10-29 20:37:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:37:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:37:58: DO UpdateGuildRanking
+2023-10-29 20:37:58: END UpdateGuildRanking
+2023-10-29 20:38:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:06: DO UpdateGuildRanking
+2023-10-29 20:38:06: END UpdateGuildRanking
+2023-10-29 20:38:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:38:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:38:10: CALL SPAM CAMP 
+2023-10-29 20:38:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :11
+2023-10-29 20:38:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :11
+2023-10-29 20:38:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:38:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:38:10: UpdateExpEvery30Sec
+2023-10-29 20:38:10: UpdateExpEvery30Sec END
+2023-10-29 20:38:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:14: DO UpdateGuildRanking
+2023-10-29 20:38:14: END UpdateGuildRanking
+2023-10-29 20:38:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:22: DO UpdateGuildRanking
+2023-10-29 20:38:22: END UpdateGuildRanking
+2023-10-29 20:38:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:30: DO UpdateGuildRanking
+2023-10-29 20:38:30: END UpdateGuildRanking
+2023-10-29 20:38:38: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:38: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:38: DO UpdateGuildRanking
+2023-10-29 20:38:38: END UpdateGuildRanking
+2023-10-29 20:38:40: CALL SPAM CAMP 
+2023-10-29 20:38:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :11
+2023-10-29 20:38:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :11
+2023-10-29 20:38:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:38:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:38:40: UpdateExpEvery30Sec
+2023-10-29 20:38:40: UpdateExpEvery30Sec END
+2023-10-29 20:38:46: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:46: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:46: DO UpdateGuildRanking
+2023-10-29 20:38:46: END UpdateGuildRanking
+2023-10-29 20:38:54: DO NotifyToAllEvery5Secon
+2023-10-29 20:38:54: DO NotifyToAllEvery5Secon END
+2023-10-29 20:38:54: DO UpdateGuildRanking
+2023-10-29 20:38:54: END UpdateGuildRanking
+2023-10-29 20:39:02: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:02: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:02: DO UpdateGuildRanking
+2023-10-29 20:39:02: END UpdateGuildRanking
+2023-10-29 20:39:10: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:10: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:10: DO UpdateGuildRanking
+2023-10-29 20:39:10: END UpdateGuildRanking
+2023-10-29 20:39:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:39:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:39:10: CALL SPAM CAMP 
+2023-10-29 20:39:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :13
+2023-10-29 20:39:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :13
+2023-10-29 20:39:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:39:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:39:10: UpdateExpEvery30Sec
+2023-10-29 20:39:10: UpdateExpEvery30Sec END
+2023-10-29 20:39:18: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:18: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:18: DO UpdateGuildRanking
+2023-10-29 20:39:18: END UpdateGuildRanking
+2023-10-29 20:39:26: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:26: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:26: DO UpdateGuildRanking
+2023-10-29 20:39:26: END UpdateGuildRanking
+2023-10-29 20:39:34: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:34: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:34: DO UpdateGuildRanking
+2023-10-29 20:39:34: END UpdateGuildRanking
+2023-10-29 20:39:40: CALL SPAM CAMP 
+2023-10-29 20:39:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP :13
+2023-10-29 20:39:40: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :13
+2023-10-29 20:39:40: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:39:40: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:39:40: UpdateExpEvery30Sec
+2023-10-29 20:39:40: UpdateExpEvery30Sec END
+2023-10-29 20:39:42: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:42: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:42: DO UpdateGuildRanking
+2023-10-29 20:39:42: END UpdateGuildRanking
+2023-10-29 20:39:50: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:50: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:50: DO UpdateGuildRanking
+2023-10-29 20:39:50: END UpdateGuildRanking
+2023-10-29 20:39:58: DO NotifyToAllEvery5Secon
+2023-10-29 20:39:58: DO NotifyToAllEvery5Secon END
+2023-10-29 20:39:58: DO UpdateGuildRanking
+2023-10-29 20:39:58: END UpdateGuildRanking
+2023-10-29 20:40:06: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:06: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:06: DO UpdateGuildRanking
+2023-10-29 20:40:06: END UpdateGuildRanking
+2023-10-29 20:40:10: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:40:10: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:40:10: CALL SPAM CAMP 
+2023-10-29 20:40:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP :13
+2023-10-29 20:40:10: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :13
+2023-10-29 20:40:10: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:40:10: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:40:10: UpdateExpEvery30Sec
+2023-10-29 20:40:10: UpdateExpEvery30Sec END
+2023-10-29 20:40:14: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:14: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:14: DO UpdateGuildRanking
+2023-10-29 20:40:14: END UpdateGuildRanking
+2023-10-29 20:40:22: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:22: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:22: DO UpdateGuildRanking
+2023-10-29 20:40:22: END UpdateGuildRanking
+2023-10-29 20:40:30: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:30: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:30: DO UpdateGuildRanking
+2023-10-29 20:40:30: END UpdateGuildRanking
+2023-10-29 20:40:39: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:39: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:39: DO UpdateGuildRanking
+2023-10-29 20:40:39: END UpdateGuildRanking
+2023-10-29 20:40:41: CALL SPAM CAMP 
+2023-10-29 20:40:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :13
+2023-10-29 20:40:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :13
+2023-10-29 20:40:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:40:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:40:41: UpdateExpEvery30Sec
+2023-10-29 20:40:41: UpdateExpEvery30Sec END
+2023-10-29 20:40:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:47: DO UpdateGuildRanking
+2023-10-29 20:40:47: END UpdateGuildRanking
+2023-10-29 20:40:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:40:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:40:55: DO UpdateGuildRanking
+2023-10-29 20:40:55: END UpdateGuildRanking
+2023-10-29 20:41:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:03: DO UpdateGuildRanking
+2023-10-29 20:41:03: END UpdateGuildRanking
+2023-10-29 20:41:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:11: DO UpdateGuildRanking
+2023-10-29 20:41:11: END UpdateGuildRanking
+2023-10-29 20:41:11: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:41:11: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:41:11: CALL SPAM CAMP 
+2023-10-29 20:41:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:41:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:41:11: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:41:11: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:41:11: UpdateExpEvery30Sec
+2023-10-29 20:41:11: UpdateExpEvery30Sec END
+2023-10-29 20:41:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:19: DO UpdateGuildRanking
+2023-10-29 20:41:19: END UpdateGuildRanking
+2023-10-29 20:41:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:27: DO UpdateGuildRanking
+2023-10-29 20:41:27: END UpdateGuildRanking
+2023-10-29 20:41:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:35: DO UpdateGuildRanking
+2023-10-29 20:41:35: END UpdateGuildRanking
+2023-10-29 20:41:41: CALL SPAM CAMP 
+2023-10-29 20:41:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:41:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:41:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:41:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:41:41: UpdateExpEvery30Sec
+2023-10-29 20:41:41: UpdateExpEvery30Sec END
+2023-10-29 20:41:43: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:43: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:43: DO UpdateGuildRanking
+2023-10-29 20:41:43: END UpdateGuildRanking
+2023-10-29 20:41:51: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:51: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:51: DO UpdateGuildRanking
+2023-10-29 20:41:51: END UpdateGuildRanking
+2023-10-29 20:41:59: DO NotifyToAllEvery5Secon
+2023-10-29 20:41:59: DO NotifyToAllEvery5Secon END
+2023-10-29 20:41:59: DO UpdateGuildRanking
+2023-10-29 20:41:59: END UpdateGuildRanking
+2023-10-29 20:42:07: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:07: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:07: DO UpdateGuildRanking
+2023-10-29 20:42:07: END UpdateGuildRanking
+2023-10-29 20:42:11: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:42:11: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:42:11: CALL SPAM CAMP 
+2023-10-29 20:42:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:42:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:42:11: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:42:11: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:42:11: UpdateExpEvery30Sec
+2023-10-29 20:42:11: UpdateExpEvery30Sec END
+2023-10-29 20:42:15: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:15: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:15: DO UpdateGuildRanking
+2023-10-29 20:42:15: END UpdateGuildRanking
+2023-10-29 20:42:23: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:23: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:23: DO UpdateGuildRanking
+2023-10-29 20:42:23: END UpdateGuildRanking
+2023-10-29 20:42:31: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:31: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:31: DO UpdateGuildRanking
+2023-10-29 20:42:31: END UpdateGuildRanking
+2023-10-29 20:42:39: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:39: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:39: DO UpdateGuildRanking
+2023-10-29 20:42:39: END UpdateGuildRanking
+2023-10-29 20:42:41: CALL SPAM CAMP 
+2023-10-29 20:42:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:42:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:42:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:42:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:42:41: UpdateExpEvery30Sec
+2023-10-29 20:42:41: UpdateExpEvery30Sec END
+2023-10-29 20:42:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:47: DO UpdateGuildRanking
+2023-10-29 20:42:47: END UpdateGuildRanking
+2023-10-29 20:42:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:42:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:42:55: DO UpdateGuildRanking
+2023-10-29 20:42:55: END UpdateGuildRanking
+2023-10-29 20:43:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:03: DO UpdateGuildRanking
+2023-10-29 20:43:03: END UpdateGuildRanking
+2023-10-29 20:43:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:11: DO UpdateGuildRanking
+2023-10-29 20:43:11: END UpdateGuildRanking
+2023-10-29 20:43:11: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:43:11: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:43:11: CALL SPAM CAMP 
+2023-10-29 20:43:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:43:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:43:11: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:43:11: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:43:11: UpdateExpEvery30Sec
+2023-10-29 20:43:11: UpdateExpEvery30Sec END
+2023-10-29 20:43:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:19: DO UpdateGuildRanking
+2023-10-29 20:43:19: END UpdateGuildRanking
+2023-10-29 20:43:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:27: DO UpdateGuildRanking
+2023-10-29 20:43:27: END UpdateGuildRanking
+2023-10-29 20:43:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:35: DO UpdateGuildRanking
+2023-10-29 20:43:35: END UpdateGuildRanking
+2023-10-29 20:43:41: CALL SPAM CAMP 
+2023-10-29 20:43:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:43:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:43:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:43:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:43:41: UpdateExpEvery30Sec
+2023-10-29 20:43:41: UpdateExpEvery30Sec END
+2023-10-29 20:43:43: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:43: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:43: DO UpdateGuildRanking
+2023-10-29 20:43:43: END UpdateGuildRanking
+2023-10-29 20:43:51: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:51: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:51: DO UpdateGuildRanking
+2023-10-29 20:43:51: END UpdateGuildRanking
+2023-10-29 20:43:59: DO NotifyToAllEvery5Secon
+2023-10-29 20:43:59: DO NotifyToAllEvery5Secon END
+2023-10-29 20:43:59: DO UpdateGuildRanking
+2023-10-29 20:43:59: END UpdateGuildRanking
+2023-10-29 20:44:07: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:07: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:07: DO UpdateGuildRanking
+2023-10-29 20:44:07: END UpdateGuildRanking
+2023-10-29 20:44:11: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:44:11: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:44:11: CALL SPAM CAMP 
+2023-10-29 20:44:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:44:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:44:11: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:44:11: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:44:11: UpdateExpEvery30Sec
+2023-10-29 20:44:11: UpdateExpEvery30Sec END
+2023-10-29 20:44:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:16: DO UpdateGuildRanking
+2023-10-29 20:44:16: END UpdateGuildRanking
+2023-10-29 20:44:23: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:23: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:23: DO UpdateGuildRanking
+2023-10-29 20:44:23: END UpdateGuildRanking
+2023-10-29 20:44:31: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:31: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:31: DO UpdateGuildRanking
+2023-10-29 20:44:31: END UpdateGuildRanking
+2023-10-29 20:44:39: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:39: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:39: DO UpdateGuildRanking
+2023-10-29 20:44:39: END UpdateGuildRanking
+2023-10-29 20:44:41: CALL SPAM CAMP 
+2023-10-29 20:44:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:44:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:44:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:44:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:44:41: UpdateExpEvery30Sec
+2023-10-29 20:44:41: UpdateExpEvery30Sec END
+2023-10-29 20:44:47: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:47: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:47: DO UpdateGuildRanking
+2023-10-29 20:44:47: END UpdateGuildRanking
+2023-10-29 20:44:55: DO NotifyToAllEvery5Secon
+2023-10-29 20:44:55: DO NotifyToAllEvery5Secon END
+2023-10-29 20:44:55: DO UpdateGuildRanking
+2023-10-29 20:44:55: END UpdateGuildRanking
+2023-10-29 20:45:03: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:03: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:03: DO UpdateGuildRanking
+2023-10-29 20:45:03: END UpdateGuildRanking
+2023-10-29 20:45:11: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:11: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:11: DO UpdateGuildRanking
+2023-10-29 20:45:11: END UpdateGuildRanking
+2023-10-29 20:45:11: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:45:11: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:45:11: CALL SPAM CAMP 
+2023-10-29 20:45:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:45:11: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:45:11: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:45:11: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:45:11: UpdateExpEvery30Sec
+2023-10-29 20:45:11: UpdateExpEvery30Sec END
+2023-10-29 20:45:19: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:19: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:19: DO UpdateGuildRanking
+2023-10-29 20:45:19: END UpdateGuildRanking
+2023-10-29 20:45:27: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:27: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:27: DO UpdateGuildRanking
+2023-10-29 20:45:27: END UpdateGuildRanking
+2023-10-29 20:45:35: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:35: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:35: DO UpdateGuildRanking
+2023-10-29 20:45:35: END UpdateGuildRanking
+2023-10-29 20:45:41: CALL SPAM CAMP 
+2023-10-29 20:45:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:45:41: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:45:41: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:45:41: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:45:41: UpdateExpEvery30Sec
+2023-10-29 20:45:41: UpdateExpEvery30Sec END
+2023-10-29 20:45:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:44: DO UpdateGuildRanking
+2023-10-29 20:45:44: END UpdateGuildRanking
+2023-10-29 20:45:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:45:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:45:52: DO UpdateGuildRanking
+2023-10-29 20:45:52: END UpdateGuildRanking
+2023-10-29 20:46:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:00: DO UpdateGuildRanking
+2023-10-29 20:46:00: END UpdateGuildRanking
+2023-10-29 20:46:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:08: DO UpdateGuildRanking
+2023-10-29 20:46:08: END UpdateGuildRanking
+2023-10-29 20:46:12: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:46:12: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:46:12: CALL SPAM CAMP 
+2023-10-29 20:46:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:46:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:46:12: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:46:12: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:46:12: UpdateExpEvery30Sec
+2023-10-29 20:46:12: UpdateExpEvery30Sec END
+2023-10-29 20:46:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:16: DO UpdateGuildRanking
+2023-10-29 20:46:16: END UpdateGuildRanking
+2023-10-29 20:46:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:24: DO UpdateGuildRanking
+2023-10-29 20:46:24: END UpdateGuildRanking
+2023-10-29 20:46:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:32: DO UpdateGuildRanking
+2023-10-29 20:46:32: END UpdateGuildRanking
+2023-10-29 20:46:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:40: DO UpdateGuildRanking
+2023-10-29 20:46:40: END UpdateGuildRanking
+2023-10-29 20:46:42: CALL SPAM CAMP 
+2023-10-29 20:46:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:46:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:46:42: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:46:42: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:46:42: UpdateExpEvery30Sec
+2023-10-29 20:46:42: UpdateExpEvery30Sec END
+2023-10-29 20:46:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:48: DO UpdateGuildRanking
+2023-10-29 20:46:48: END UpdateGuildRanking
+2023-10-29 20:46:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:46:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:46:56: DO UpdateGuildRanking
+2023-10-29 20:46:56: END UpdateGuildRanking
+2023-10-29 20:47:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:04: DO UpdateGuildRanking
+2023-10-29 20:47:04: END UpdateGuildRanking
+2023-10-29 20:47:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:12: DO UpdateGuildRanking
+2023-10-29 20:47:12: END UpdateGuildRanking
+2023-10-29 20:47:12: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:47:12: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:47:12: CALL SPAM CAMP 
+2023-10-29 20:47:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP :14
+2023-10-29 20:47:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :14
+2023-10-29 20:47:12: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:47:12: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:47:12: UpdateExpEvery30Sec
+2023-10-29 20:47:12: UpdateExpEvery30Sec END
+2023-10-29 20:47:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:20: DO UpdateGuildRanking
+2023-10-29 20:47:20: END UpdateGuildRanking
+2023-10-29 20:47:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:28: DO UpdateGuildRanking
+2023-10-29 20:47:28: END UpdateGuildRanking
+2023-10-29 20:47:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:36: DO UpdateGuildRanking
+2023-10-29 20:47:36: END UpdateGuildRanking
+2023-10-29 20:47:42: CALL SPAM CAMP 
+2023-10-29 20:47:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP :16
+2023-10-29 20:47:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :16
+2023-10-29 20:47:42: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:47:42: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:47:42: UpdateExpEvery30Sec
+2023-10-29 20:47:42: UpdateExpEvery30Sec END
+2023-10-29 20:47:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:44: DO UpdateGuildRanking
+2023-10-29 20:47:44: END UpdateGuildRanking
+2023-10-29 20:47:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:47:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:47:52: DO UpdateGuildRanking
+2023-10-29 20:47:52: END UpdateGuildRanking
+2023-10-29 20:48:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:00: DO UpdateGuildRanking
+2023-10-29 20:48:00: END UpdateGuildRanking
+2023-10-29 20:48:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:08: DO UpdateGuildRanking
+2023-10-29 20:48:08: END UpdateGuildRanking
+2023-10-29 20:48:12: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:48:12: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:48:12: CALL SPAM CAMP 
+2023-10-29 20:48:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP :16
+2023-10-29 20:48:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :16
+2023-10-29 20:48:12: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:48:12: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:48:12: UpdateExpEvery30Sec
+2023-10-29 20:48:12: UpdateExpEvery30Sec END
+2023-10-29 20:48:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:16: DO UpdateGuildRanking
+2023-10-29 20:48:16: END UpdateGuildRanking
+2023-10-29 20:48:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:24: DO UpdateGuildRanking
+2023-10-29 20:48:24: END UpdateGuildRanking
+2023-10-29 20:48:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:32: DO UpdateGuildRanking
+2023-10-29 20:48:32: END UpdateGuildRanking
+2023-10-29 20:48:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:40: DO UpdateGuildRanking
+2023-10-29 20:48:40: END UpdateGuildRanking
+2023-10-29 20:48:42: CALL SPAM CAMP 
+2023-10-29 20:48:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP :16
+2023-10-29 20:48:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :16
+2023-10-29 20:48:42: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:48:42: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:48:42: UpdateExpEvery30Sec
+2023-10-29 20:48:42: UpdateExpEvery30Sec END
+2023-10-29 20:48:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:48: DO UpdateGuildRanking
+2023-10-29 20:48:48: END UpdateGuildRanking
+2023-10-29 20:48:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:48:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:48:56: DO UpdateGuildRanking
+2023-10-29 20:48:56: END UpdateGuildRanking
+2023-10-29 20:49:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:04: DO UpdateGuildRanking
+2023-10-29 20:49:04: END UpdateGuildRanking
+2023-10-29 20:49:12: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:12: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:12: DO UpdateGuildRanking
+2023-10-29 20:49:12: END UpdateGuildRanking
+2023-10-29 20:49:12: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:49:12: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:49:12: CALL SPAM CAMP 
+2023-10-29 20:49:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP :16
+2023-10-29 20:49:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :16
+2023-10-29 20:49:12: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:49:12: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:49:12: UpdateExpEvery30Sec
+2023-10-29 20:49:12: UpdateExpEvery30Sec END
+2023-10-29 20:49:20: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:20: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:20: DO UpdateGuildRanking
+2023-10-29 20:49:20: END UpdateGuildRanking
+2023-10-29 20:49:28: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:28: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:28: DO UpdateGuildRanking
+2023-10-29 20:49:28: END UpdateGuildRanking
+2023-10-29 20:49:36: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:36: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:36: DO UpdateGuildRanking
+2023-10-29 20:49:36: END UpdateGuildRanking
+2023-10-29 20:49:42: CALL SPAM CAMP 
+2023-10-29 20:49:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP :16
+2023-10-29 20:49:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :16
+2023-10-29 20:49:42: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:49:42: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:49:42: UpdateExpEvery30Sec
+2023-10-29 20:49:42: UpdateExpEvery30Sec END
+2023-10-29 20:49:44: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:44: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:44: DO UpdateGuildRanking
+2023-10-29 20:49:44: END UpdateGuildRanking
+2023-10-29 20:49:52: DO NotifyToAllEvery5Secon
+2023-10-29 20:49:52: DO NotifyToAllEvery5Secon END
+2023-10-29 20:49:52: DO UpdateGuildRanking
+2023-10-29 20:49:52: END UpdateGuildRanking
+2023-10-29 20:50:00: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:00: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:00: DO UpdateGuildRanking
+2023-10-29 20:50:00: END UpdateGuildRanking
+2023-10-29 20:50:02:  Battle Change State ==> STATUS_PREPAREEND
+2023-10-29 20:50:08: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:08: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:08: DO UpdateGuildRanking
+2023-10-29 20:50:08: END UpdateGuildRanking
+2023-10-29 20:50:12: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:50:12: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:50:12: CALL SPAM CAMP 
+2023-10-29 20:50:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:50:12: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:50:12: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:50:12: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:50:12: UpdateExpEvery30Sec
+2023-10-29 20:50:12: UpdateExpEvery30Sec END
+2023-10-29 20:50:16: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:16: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:16: DO UpdateGuildRanking
+2023-10-29 20:50:16: END UpdateGuildRanking
+2023-10-29 20:50:24: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:24: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:24: DO UpdateGuildRanking
+2023-10-29 20:50:24: END UpdateGuildRanking
+2023-10-29 20:50:32: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:32: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:32: DO UpdateGuildRanking
+2023-10-29 20:50:32: END UpdateGuildRanking
+2023-10-29 20:50:40: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:40: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:40: DO UpdateGuildRanking
+2023-10-29 20:50:40: END UpdateGuildRanking
+2023-10-29 20:50:42: CALL SPAM CAMP 
+2023-10-29 20:50:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:50:42: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:50:42: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:50:42: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:50:42: UpdateExpEvery30Sec
+2023-10-29 20:50:42: UpdateExpEvery30Sec END
+2023-10-29 20:50:48: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:48: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:48: DO UpdateGuildRanking
+2023-10-29 20:50:48: END UpdateGuildRanking
+2023-10-29 20:50:56: DO NotifyToAllEvery5Secon
+2023-10-29 20:50:56: DO NotifyToAllEvery5Secon END
+2023-10-29 20:50:56: DO UpdateGuildRanking
+2023-10-29 20:50:56: END UpdateGuildRanking
+2023-10-29 20:51:04: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:04: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:04: DO UpdateGuildRanking
+2023-10-29 20:51:04: END UpdateGuildRanking
+2023-10-29 20:51:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:13: DO UpdateGuildRanking
+2023-10-29 20:51:13: END UpdateGuildRanking
+2023-10-29 20:51:13: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:51:13: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:51:13: CALL SPAM CAMP 
+2023-10-29 20:51:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:51:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:51:13: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:51:13: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:51:13: UpdateExpEvery30Sec
+2023-10-29 20:51:13: UpdateExpEvery30Sec END
+2023-10-29 20:51:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:21: DO UpdateGuildRanking
+2023-10-29 20:51:21: END UpdateGuildRanking
+2023-10-29 20:51:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:29: DO UpdateGuildRanking
+2023-10-29 20:51:29: END UpdateGuildRanking
+2023-10-29 20:51:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:37: DO UpdateGuildRanking
+2023-10-29 20:51:37: END UpdateGuildRanking
+2023-10-29 20:51:43: CALL SPAM CAMP 
+2023-10-29 20:51:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:51:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:51:43: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:51:43: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:51:43: UpdateExpEvery30Sec
+2023-10-29 20:51:43: UpdateExpEvery30Sec END
+2023-10-29 20:51:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:45: DO UpdateGuildRanking
+2023-10-29 20:51:45: END UpdateGuildRanking
+2023-10-29 20:51:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:51:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:51:53: DO UpdateGuildRanking
+2023-10-29 20:51:53: END UpdateGuildRanking
+2023-10-29 20:52:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:01: DO UpdateGuildRanking
+2023-10-29 20:52:01: END UpdateGuildRanking
+2023-10-29 20:52:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:09: DO UpdateGuildRanking
+2023-10-29 20:52:09: END UpdateGuildRanking
+2023-10-29 20:52:13: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:52:13: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:52:13: CALL SPAM CAMP 
+2023-10-29 20:52:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:52:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:52:13: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:52:13: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:52:13: UpdateExpEvery30Sec
+2023-10-29 20:52:13: UpdateExpEvery30Sec END
+2023-10-29 20:52:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:17: DO UpdateGuildRanking
+2023-10-29 20:52:17: END UpdateGuildRanking
+2023-10-29 20:52:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:25: DO UpdateGuildRanking
+2023-10-29 20:52:25: END UpdateGuildRanking
+2023-10-29 20:52:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:33: DO UpdateGuildRanking
+2023-10-29 20:52:33: END UpdateGuildRanking
+2023-10-29 20:52:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:41: DO UpdateGuildRanking
+2023-10-29 20:52:41: END UpdateGuildRanking
+2023-10-29 20:52:43: CALL SPAM CAMP 
+2023-10-29 20:52:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:52:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:52:43: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:52:43: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:52:43: UpdateExpEvery30Sec
+2023-10-29 20:52:43: UpdateExpEvery30Sec END
+2023-10-29 20:52:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:49: DO UpdateGuildRanking
+2023-10-29 20:52:49: END UpdateGuildRanking
+2023-10-29 20:52:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:52:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:52:57: DO UpdateGuildRanking
+2023-10-29 20:52:57: END UpdateGuildRanking
+2023-10-29 20:53:05: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:05: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:05: DO UpdateGuildRanking
+2023-10-29 20:53:05: END UpdateGuildRanking
+2023-10-29 20:53:13: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:13: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:13: DO UpdateGuildRanking
+2023-10-29 20:53:13: END UpdateGuildRanking
+2023-10-29 20:53:13: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:53:13: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:53:13: CALL SPAM CAMP 
+2023-10-29 20:53:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:53:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:53:13: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:53:13: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:53:13: UpdateExpEvery30Sec
+2023-10-29 20:53:13: UpdateExpEvery30Sec END
+2023-10-29 20:53:21: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:21: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:21: DO UpdateGuildRanking
+2023-10-29 20:53:21: END UpdateGuildRanking
+2023-10-29 20:53:29: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:29: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:29: DO UpdateGuildRanking
+2023-10-29 20:53:29: END UpdateGuildRanking
+2023-10-29 20:53:37: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:37: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:37: DO UpdateGuildRanking
+2023-10-29 20:53:37: END UpdateGuildRanking
+2023-10-29 20:53:43: CALL SPAM CAMP 
+2023-10-29 20:53:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:53:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:53:43: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:53:43: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:53:43: UpdateExpEvery30Sec
+2023-10-29 20:53:43: UpdateExpEvery30Sec END
+2023-10-29 20:53:45: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:45: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:45: DO UpdateGuildRanking
+2023-10-29 20:53:45: END UpdateGuildRanking
+2023-10-29 20:53:53: DO NotifyToAllEvery5Secon
+2023-10-29 20:53:53: DO NotifyToAllEvery5Secon END
+2023-10-29 20:53:53: DO UpdateGuildRanking
+2023-10-29 20:53:53: END UpdateGuildRanking
+2023-10-29 20:54:01: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:01: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:01: DO UpdateGuildRanking
+2023-10-29 20:54:01: END UpdateGuildRanking
+2023-10-29 20:54:09: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:09: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:09: DO UpdateGuildRanking
+2023-10-29 20:54:09: END UpdateGuildRanking
+2023-10-29 20:54:13: UpdateScoreForGuildEvery60SEC
+2023-10-29 20:54:13: UpdateScoreForGuildEvery60SEC END
+2023-10-29 20:54:13: CALL SPAM CAMP 
+2023-10-29 20:54:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:54:13: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:54:13: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:54:13: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:54:13: UpdateExpEvery30Sec
+2023-10-29 20:54:13: UpdateExpEvery30Sec END
+2023-10-29 20:54:17: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:17: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:17: DO UpdateGuildRanking
+2023-10-29 20:54:17: END UpdateGuildRanking
+2023-10-29 20:54:25: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:25: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:25: DO UpdateGuildRanking
+2023-10-29 20:54:25: END UpdateGuildRanking
+2023-10-29 20:54:33: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:33: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:33: DO UpdateGuildRanking
+2023-10-29 20:54:33: END UpdateGuildRanking
+2023-10-29 20:54:41: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:41: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:41: DO UpdateGuildRanking
+2023-10-29 20:54:41: END UpdateGuildRanking
+2023-10-29 20:54:43: CALL SPAM CAMP 
+2023-10-29 20:54:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP :17
+2023-10-29 20:54:43: [36][Long Tuyền Thôn] CALL RELOAD CAMP ENDDD :17
+2023-10-29 20:54:43: [30][Vân Trung Trấn] CALL RELOAD CAMP :1
+2023-10-29 20:54:43: [30][Vân Trung Trấn] CALL RELOAD CAMP ENDDD :1
+2023-10-29 20:54:43: UpdateExpEvery30Sec
+2023-10-29 20:54:43: UpdateExpEvery30Sec END
+2023-10-29 20:54:49: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:49: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:49: DO UpdateGuildRanking
+2023-10-29 20:54:49: END UpdateGuildRanking
+2023-10-29 20:54:57: DO NotifyToAllEvery5Secon
+2023-10-29 20:54:57: DO NotifyToAllEvery5Secon END
+2023-10-29 20:54:57: DO UpdateGuildRanking
+2023-10-29 20:54:57: END UpdateGuildRanking
+2023-10-29 20:55:03: DO UpdateGuildRanking
+2023-10-29 20:55:03: END UpdateGuildRanking
+2023-10-29 20:55:03: [][100005] ==> MAPNAME : [Vân Trung Trấn] |  SCORE :1500
+2023-10-29 20:55:03: [100005]CHECK BẢN ĐỒ :Vân Trung Trấn========> KHÔNG CẦN PHỈA XÓA :False
+2023-10-29 20:55:03: [1] Cập nhật lãnh thổ thành công :Vân Trung Trấn| MapID :1| GuildID :100005| Star :2| Tax :2| ZoneID :1| IsMainCity :0
+2023-10-29 20:55:03:  Battle Change State ==> STATUS_END
+2023-10-29 20:55:03: SETUP MINI MAP
